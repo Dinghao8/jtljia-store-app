@@ -1,0 +1,17 @@
+-
+  data:
+    account_ele:
+      "resourceId": com.goldmantis.appjia:id/et_account
+    pwd_ele:
+      "resourceId": com.goldmantis.appjia:id/et_pwd
+    login_btn_ele:
+      "resourceId": com.goldmantis.appjia:id/btn_login
+    store_ele:
+      from:
+        "scrollable": true
+      to:
+        "text": 金螳螂家义乌公司（特许经营）
+  account: N0065636
+  pwd: Dh19970322
+  activity: com.goldmantis.appjia.splash.MainActivity
+

@@ -1,0 +1,51 @@
+-
+  data:
+    button:                     #应用按钮
+      text: 应用
+    create:                   #创建线索按钮
+      resourceId: com.goldmantis.appjia:id/tv_image_name
+      text: 创建线索
+    phone:                         #手机号输入框
+      resourceId: com.goldmantis.appjia:id/phone_edit
+    next:                              #下一步
+      resourceId: com.goldmantis.appjia:id/next_btn
+    name:                                 #客户姓名
+      resourceId: com.goldmantis.appjia:id/name_edit
+    sex:                                       #性别
+      resourceId: com.goldmantis.appjia:id/sex_choose
+    sex_selector:                                 #性别选择器
+      resourceId: com.goldmantis.appjia:id/optionspicker
+    submit:                                             #确定按钮
+      resourceId: com.goldmantis.appjia:id/btnSubmit
+      text: 确定
+    cancel:                                             #取消按钮
+      resourceId: com.goldmantis.appjia:id/btnCancel
+    source:                                           #来源
+      resourceId: com.goldmantis.appjia:id/root_choose
+    first:                                               #第一渠道
+      resourceId: com.goldmantis.appjia:id/options1
+    second:                                              #第二渠道
+      resourceId: com.goldmantis.appjia:id/options2
+    third:                                               #第三渠道
+      resourceId: com.goldmantis.appjia:id/options3
+    type:                                                 #类型
+      resourceId: com.goldmantis.appjia:id/type_choose
+    contract_selector:                                      #合同类型选择器
+      resourceId: com.goldmantis.appjia:id/optionspicker
+    store:                                                  #当前门店
+      resourceId: com.goldmantis.appjia:id/shop_choose
+    store_selector:                                          #门店选择器
+      resourceId: com.goldmantis.appjia:id/optionspicker
+    customer_manager:                                    #客户经理
+      resourceId: com.goldmantis.appjia:id/customer_manager
+    customer_manager_item:                                 #门店所有客户经理
+      resourceId: com.goldmantis.appjia:id/item_name
+    remark:                                             #备注信息
+      resourceId: com.goldmantis.appjia:id/content_et
+    create_button:                                         #创建新线索按钮
+      resourceId: com.goldmantis.appjia:id/create_btn
+  phone_num: 17751112316            #手机号
+  customer_name: 来啦老弟               #客户姓名
+  contract_type: 家装服务
+  comment:
+
